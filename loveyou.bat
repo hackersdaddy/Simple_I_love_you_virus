@@ -1,5 +1,5 @@
 @echo off
-color 52
+color 0a
 echo Hey, do you love me (only answer in yes or no)
 set /p love=
 if %love%==yes goto love
