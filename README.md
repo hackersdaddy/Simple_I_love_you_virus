@@ -1,7 +1,7 @@
 # Simple_I_love_you_virus
 Hello people here we are presenting you a simple i love you virus code which can be used to shutdown your friends pc , don't worry its harmless so lets get into the code
 
-Step 1 :- save the batch file in your System or pendrive anything
+Step 1 :- save the batch file in your System or pendrive anything 
 
 Step 2 :- use some social engineering process and ask your friend to open this file 
 
